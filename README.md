@@ -6,12 +6,12 @@
 
 ### Courses ###
 
->* [Automated testing + Python (DareIT)](https://www.dareit.io/challenges/wstep-do-testow-automatycznych)
+✅ [Automated testing + Python (DareIT)](https://www.dareit.io/challenges/wstep-do-testow-automatycznych)
 
 ### Webinars ###
 
->* [Introduction to QA (GoIT)](https://qa.m.goit.global/pl/)
->* [Automatycznie 🤖 czy Manualnie 🔍?](https://www.facebook.com/events/1121747482561218)
+✅ [Introduction to QA (GoIT)](https://qa.m.goit.global/pl/)   
+✅ [Automatycznie 🤖 czy Manualnie 🔍?](https://www.facebook.com/events/1121747482561218)
 
 ### Projects ###
 
@@ -36,19 +36,43 @@
 | for testing purposes | for other purposes |    
 |----------------------|--------------------|
 | Chrome DevTools      | MS Office          |     
-| Git                  | Slack              |   
-| GitHub               | CRM                |    
-| Selenium WebDriver   |                    |
+| Git, GitHub          | Slack              |   
+| Jira                 | Trello             |    
+| Selenium WebDriver   | CRM                |
 | Python               |                    |
 | Robot Framework      |                    |
-| PyCharm              |                    |   
-| Jira                 |                    |    
+| PyCharm              |                    |    
 
 ### Tech skills ###
 
-- Python basics `:snake:`    
-- Software testing basics 
-- Creating test cases    
-- Reporting bugs   
-- Xpath    
-- Analytical skills
+- Python basics 🐍    
+- Software testing basics 💻
+- Creating test cases 📰    
+- Reporting bugs 🪲   
+- Xpath 🔖    
+- Analytical skills 🧠    
+
+
+### IT Books I read ###
+
+- Zawód Tester - Radosław Smilgin
+- Automatyzacja testów - Arnon Axelrod   
+
+### Testing related websites I recommend ### 
+
+- [testerzy.pl](https://testerzy.pl/)
+- [Geek Girls Carrots](https://gocarrots.org/)
+
+### IT fb groups I follow ###
+
+- [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)   
+- [DareIT Community](https://www.facebook.com/groups/2029087700497738)   
+- [Praca w IT](https://www.facebook.com/groups/praca.junior/)
+
+
+### My non-IT passions 😛 ###
+
+- rock climbing 🌄
+- road and grivel bicycle 🚲
+- yoga 🧘
+- oriental culture and philosophy ☯️
