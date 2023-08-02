@@ -11,7 +11,7 @@
 ### Webinars ###
 
 ✅ [Introduction to QA (GoIT)](https://qa.m.goit.global/pl/)   
-✅ [Automatycznie 🤖 czy Manualnie 🔍?](https://www.facebook.com/events/1121747482561218)
+✅ [Automatycznie 🤖 czy Manualnie 🔍? (DareIT)](https://www.facebook.com/events/1121747482561218)
 
 ### Projects ###
 
