@@ -45,7 +45,8 @@
 
 ### Tech skills ###
 
-- Python basics 🐍    
+- Python basics 🐍
+- HTML basics 🔶
 - Software testing basics 💻
 - Creating test cases 📰    
 - Reporting bugs 🪲   
