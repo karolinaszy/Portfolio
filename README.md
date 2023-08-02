@@ -33,11 +33,11 @@
 
 ### Tools ### 
 
-| **for testing purposes** | **for other purposes** |  
-| Chrome DevTools | Slack |    
+| | for testing purposes | for other purposes | |    
+| Chrome DevTools | Slack |     
 | Git | MS Office |   
 | GitHub | CRM |    
 | Selenium WebDriver |     
 | Python |    
 | Robot Framework |    
-| PyCharm |
+| PyCharm | |
