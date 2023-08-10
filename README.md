@@ -4,17 +4,17 @@
 
 [LinkedIn](https://www.linkedin.com/in/karolina-szybiak) <br>
 
-I am beginning my journey as a Software Tester, and I'm open to a Junior Position in your team :) <br>   
-Testing has intrigued me for a long time, particularly in my previous job, where I became familiar with some <br>   
-aspects of Manual testing. As an Account Manager in a company which is delivering ecological <br>    
-and local food products, I was also responsible for assuring proper working of the website and mobile application. <br>   
-I was completing this task by keeping in touch with customers and developers, reporting bugs and malfunctions. <br>      
-I'm currently actively learning and improving my testing skills. Relevant of them are listed below: <br>
+I am beginning my journey as a Software Tester, and I'm open to a Junior Position in your team :)        
+Testing has intrigued me for a long time, particularly in my previous job, where I became familiar with some       
+aspects of Manual testing. As an Account Manager in a company which is delivering ecological        
+and local food products, I was also responsible for assuring proper working of the website and mobile application.       
+I was completing this task by keeping in touch with customers and developers, reporting bugs and malfunctions.          
+I'm currently actively learning and improving my testing skills. Relevant of them are listed below:    
 
 <h3> Courses </h3>
 
-✅ [Automated testing + Python (DareIT)](https://www.dareit.io/challenges/wstep-do-testow-automatycznych) <br>
-🔲 [Python for beginners - in progress](https://www.udemy.com/course/python-dla-poczatkujacych/) <br>
+✅ [Automated testing + Python (DareIT)](https://www.dareit.io/challenges/wstep-do-testow-automatycznych)    
+🔲 [Python for beginners - in progress](https://www.udemy.com/course/python-dla-poczatkujacych/)    
 
 <h3> Certificates </h3>
 
