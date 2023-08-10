@@ -50,6 +50,7 @@ I'm currently actively learning and improving my testing skills. Relevant of the
 - team player 👪
 - analytical thinking 💭
 - intent 🔥
+- detail-oriented 👈
 
 <h3> Projects </h3>
 
