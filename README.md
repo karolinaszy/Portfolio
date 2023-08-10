@@ -4,12 +4,12 @@
 
 [LinkedIn](https://www.linkedin.com/in/karolina-szybiak) <br>
 
-I am beginning my journey as a Software Tester, and I'm open to a Junior Position in your team :)   
-Testing has intrigued me for a long time, particularly in my previous job, where I became familiar with some   
-aspects of Manual testing. As an Account Manager in a company which is delivering ecological    
-and local food products, I was also responsible for assuring proper working of the website and mobile application.   
-I was completing this task by keeping in touch with customers and developers, reporting bugs and malfunctions.      
-I'm currently actively learning and improving my testing skills. Relevant of them are listed below:
+I am beginning my journey as a Software Tester, and I'm open to a Junior Position in your team :) <br>   
+Testing has intrigued me for a long time, particularly in my previous job, where I became familiar with some <br>   
+aspects of Manual testing. As an Account Manager in a company which is delivering ecological <br>    
+and local food products, I was also responsible for assuring proper working of the website and mobile application. <br>   
+I was completing this task by keeping in touch with customers and developers, reporting bugs and malfunctions. <br>      
+I'm currently actively learning and improving my testing skills. Relevant of them are listed below: <br>
 
 <h3> Courses </h3>
 
@@ -93,6 +93,7 @@ I'm currently actively learning and improving my testing skills. Relevant of the
 - [Tu się testuje](https://open.spotify.com/show/75eyDizBIrd2QX0kSkkApJ)
 - [No Fluff Cast](https://open.spotify.com/show/7lYEvkUQjv6p282vPtAs6d)
 - [Testowanie oprogramowania](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd)
+- [Strong Women in IT](https://open.spotify.com/show/3UG6N8xsqVWJ6s5jA6GE99?si=753efa75fe1f4661)
 
 <h3> IT websites I recommend </h3> 
 
@@ -101,6 +102,7 @@ I'm currently actively learning and improving my testing skills. Relevant of the
 - [Geek Girls Carrots](https://gocarrots.org/)
 - [Na podbój IT!](https://podboj.it/)
 - [Łukasz Zieliński blog](https://lukasz-zielinski.pl/)
+- [QA/ Test automation blog](https://amelia.qa/blog)
 
 <h3> IT fb groups I follow </h3>
 
