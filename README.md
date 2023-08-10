@@ -85,8 +85,9 @@ I'm currently actively learning and improving my testing skills. Relevant of the
 <h3> Testing related books I read </h3>
 
 - Zawód Tester - Radosław Smilgin
-- Testowanie i jakość oprogramowania - Roman Adam
+- Testowanie i jakość oprogramowania - Adam Roman
 - Automatyzacja testów - Arnon Axelrod
+- Cetryfikowany tester ISTQB - Adam Roman, Lucjan Stapp
 
 <h3> Podcasts </h3>
 
