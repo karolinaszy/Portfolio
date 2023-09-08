@@ -16,8 +16,7 @@ is listed below:
 ✅ [Automated testing + Python (DareIT)](https://www.dareit.io/challenges/wstep-do-testow-automatycznych) <br>
 🔲 [Manual testing challenge](https://www.dareit.io/challenges/qa-manual-testing) - in progress
 
-
-<h3> Certificates </h3>
+<h3> Certifications </h3>
 
 🔲 ISTQB Foundation level - in progress
 
@@ -51,6 +50,7 @@ is listed below:
 - team player 👪
 - analytical thinking 💭
 - intent 🔥
+- detail-oriented 👈
 
 <h3> Projects </h3>
 
@@ -86,14 +86,16 @@ is listed below:
 <h3> Testing related books I read </h3>
 
 - Zawód Tester - Radosław Smilgin
-- Testowanie i jakość oprogramowania - Roman Adam
+- Testowanie i jakość oprogramowania - Adam Roman
 - Automatyzacja testów - Arnon Axelrod
+- Cetryfikowany tester ISTQB - Adam Roman, Lucjan Stapp
 
 <h3> Podcasts </h3>
 
 - [Tu się testuje](https://open.spotify.com/show/75eyDizBIrd2QX0kSkkApJ)
 - [No Fluff Cast](https://open.spotify.com/show/7lYEvkUQjv6p282vPtAs6d)
 - [Testowanie oprogramowania](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd)
+- [Strong Women in IT](https://open.spotify.com/show/3UG6N8xsqVWJ6s5jA6GE99?si=753efa75fe1f4661)
 
 <h3> IT websites I recommend </h3> 
 
@@ -102,6 +104,7 @@ is listed below:
 - [Geek Girls Carrots](https://gocarrots.org/)
 - [Na podbój IT!](https://podboj.it/)
 - [Łukasz Zieliński blog](https://lukasz-zielinski.pl/)
+- [QA/ Test automation blog](https://amelia.qa/blog)
 
 <h3> IT fb groups I follow </h3>
 
