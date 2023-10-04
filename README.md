@@ -45,7 +45,6 @@ is listed below:
 - Xpath 🔖    
 - Analytical skills 🧠
 </details>
-
 <details>
 <summary> <h4> Soft skills 👐 </h4> </summary>
 
