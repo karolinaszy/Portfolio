@@ -63,17 +63,13 @@ is listed below:
 <h4> Test cases </h4> 
 
 - Scout Panel manual testing [1](https://docs.google.com/spreadsheets/d/1eDfkKOzmwgp176t2s64f1L-6R99oGGE6i18GwfHpje8/edit#gid=0) and [2](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit#gid=471464752)
-- [Scouts Panel automated testing](https://drive.google.com/drive/folders/1987MHeKnAwviBS8oxVPAMrAryYXPj8IF)    
-
-<h4> Test cases report </h4>
-
-- robot framework report for DareIT challenge [link to report](https://drive.google.com/drive/folders/1B_6um0ISuMfSQIqt0WUHNpcJ6Xy3VBjV)   
+- [Scouts Panel automated testing](https://drive.google.com/drive/folders/1987MHeKnAwviBS8oxVPAMrAryYXPj8IF)     
 
 <h4> Bug reports </h4>
 
 - bug reports for DareIT challenge [link to bug reports](https://drive.google.com/drive/folders/1KwI748Rjs5IqDTCie4krFsOSMx8glxAb)    
 
-<h3> Here I learn testing </h3>
+<h3> Here I learn how to test </h3>
 
 - [MrBuggy](http://mrbuggy.pl/)
 - [uTest](https://www.utest.com/)
