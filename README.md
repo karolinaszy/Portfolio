@@ -33,7 +33,8 @@ is listed below:
 | TestRail             |                    |
 
 
-<h3> Tech skills </h3>
+<details>
+<summary> <h3> Tech skills </h3> </summary>
 
 - SQL basics 🔰
 - Python basics 🐍   
@@ -43,8 +44,10 @@ is listed below:
 - Reporting bugs 🪲   
 - Xpath 🔖    
 - Analytical skills 🧠
+</details>
 
-<h3> Soft skills </h3>
+<details>
+<summary> <h3> Soft skills </h3> </summary>
 
 - motivated to learn 📖
 - curious 🤓
@@ -52,23 +55,31 @@ is listed below:
 - analytical thinking 💭
 - intent 🔥
 - detail-oriented 👈
+</details>
 
 <h3> Projects </h3>
 
-<h4> Autotests </h4>
+<details>
+<summary> <h4> Autotests </h4> </summary>
 
 - autotests Selenium + Python for DareIT challenge [link to repo](https://github.com/karolinaszy/challenge_portfolio_karolina)   
-- autotests Robot Framework for DareIT challenge [link to repo](https://github.com/karolinaszy/test_robotframework)   
-<h4> Test cases </h4> 
+- autotests Robot Framework for DareIT challenge [link to repo](https://github.com/karolinaszy/test_robotframework)
+</details>
+
+<details>
+<summary> <h4> Test cases </h4> </summary>
 
 - Scout Panel manual testing [1](https://docs.google.com/spreadsheets/d/1eDfkKOzmwgp176t2s64f1L-6R99oGGE6i18GwfHpje8/edit#gid=0) and [2](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit#gid=471464752)
-- [Scouts Panel automated testing](https://drive.google.com/drive/folders/1987MHeKnAwviBS8oxVPAMrAryYXPj8IF)     
+- [Scouts Panel automated testing](https://drive.google.com/drive/folders/1987MHeKnAwviBS8oxVPAMrAryYXPj8IF)
+</details>
 
-<h4> Bug reports </h4>
+<details>
+<summary> <h4> Bug reports </h4> </summary>
 
 - [Scouts Panel automated tests](https://docs.google.com/spreadsheets/d/1mclDrxefSIJAC0EKxuxXirdDfHzRAEqVYnNXRTJoioM/edit#gid=0)
 - [Scouts Panel manual tests](https://docs.google.com/spreadsheets/d/1hb-gv6v6JmhwuLAF0AuvuvU8oYAPN9v9Tqh1uSQaJ-c/edit#gid=1604189475)
 - [olx mobile app manual tests](https://docs.google.com/spreadsheets/d/1ItrAvKvbV1vl7Mgt1p2S9rNnKdQx-ZbWmBQMJJU4u7w/edit#gid=0)
+</details> 
 
 <h3> Here I learn how to test </h3>
 
