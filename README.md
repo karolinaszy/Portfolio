@@ -1,6 +1,6 @@
 <h2> PORTFOLIO </h2> 
 
-<h3> About me </h3>   
+<h4> About me </h4>   
 
 [LinkedIn](https://www.linkedin.com/in/karolina-szybiak) <br>
 
@@ -11,7 +11,7 @@ I was also responsible for assuring a proper working of the web and mobile appli
 actively learning and improving skills in manual and automated testing. My relevant testing experience    
 is listed below:
 
-<h3> Courses </h3>
+<h4> Courses </h4>
 
 ✅ [Automated testing + Python - DareIT](https://github.com/karolinaszy/automated_tests_challenge) <br>
 🔲 [Manual testing + SQL - DareIT](https://github.com/karolinaszy/manual_tests_challenge) - in progress
