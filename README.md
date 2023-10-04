@@ -60,21 +60,21 @@ is listed below:
 <summary> <h4> Projects </h4> </summary>
 
 <details>
-<summary> <h4> Autotests </h4> </summary>
+<summary> <h5> Autotests </h5> </summary>
 
 - autotests Selenium + Python for DareIT challenge [link to repo](https://github.com/karolinaszy/challenge_portfolio_karolina)   
 - autotests Robot Framework for DareIT challenge [link to repo](https://github.com/karolinaszy/test_robotframework)
 </details>
 
 <details>
-<summary> <h4> Test cases </h4> </summary>
+<summary> <h5> Test cases </h5> </summary>
 
 - Scout Panel manual testing [1](https://docs.google.com/spreadsheets/d/1eDfkKOzmwgp176t2s64f1L-6R99oGGE6i18GwfHpje8/edit#gid=0) and [2](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit#gid=471464752)
 - [Scouts Panel automated testing](https://drive.google.com/drive/folders/1987MHeKnAwviBS8oxVPAMrAryYXPj8IF)
 </details>
 
 <details>
-<summary> <h4> Bug reports </h4> </summary>
+<summary> <h5> Bug reports </h5> </summary>
 
 - [Scouts Panel automated tests](https://docs.google.com/spreadsheets/d/1mclDrxefSIJAC0EKxuxXirdDfHzRAEqVYnNXRTJoioM/edit#gid=0)
 - [Scouts Panel manual tests](https://docs.google.com/spreadsheets/d/1hb-gv6v6JmhwuLAF0AuvuvU8oYAPN9v9Tqh1uSQaJ-c/edit#gid=1604189475)
