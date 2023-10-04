@@ -13,8 +13,8 @@ is listed below:
 
 <h3> Courses </h3>
 
-✅ [Automated testing + Python (DareIT)](https://www.dareit.io/challenges/wstep-do-testow-automatycznych) <br>
-🔲 [Manual testing challenge](https://www.dareit.io/challenges/qa-manual-testing) - in progress
+✅ [Automated testing + Python - DareIT](https://github.com/karolinaszy/automated_tests_challenge) <br>
+🔲 [Manual testing + SQL - DareIT](https://github.com/karolinaszy/manual_tests_challenge) - in progress
 
 <h3> Certifications </h3>
 
@@ -35,6 +35,7 @@ is listed below:
 
 <h3> Tech skills </h3>
 
+- SQL basics 🔰
 - Python basics 🐍   
 - HTML basics 🔶
 - Software testing basics 💻
@@ -61,7 +62,8 @@ is listed below:
 
 <h4> Test cases </h4> 
 
-- test cases for DareIT challenge [link to TC](https://drive.google.com/drive/folders/1987MHeKnAwviBS8oxVPAMrAryYXPj8IF)    
+- Scout Panel manual testing [1](https://docs.google.com/spreadsheets/d/1eDfkKOzmwgp176t2s64f1L-6R99oGGE6i18GwfHpje8/edit#gid=0) and [2](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit#gid=471464752)
+- [Scouts Panel automated testing](https://drive.google.com/drive/folders/1987MHeKnAwviBS8oxVPAMrAryYXPj8IF)    
 
 <h4> Test cases report </h4>
 
