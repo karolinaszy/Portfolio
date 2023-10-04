@@ -16,11 +16,11 @@ is listed below:
 ✅ [Automated testing + Python - DareIT](https://github.com/karolinaszy/automated_tests_challenge) <br>
 🔲 [Manual testing + SQL - DareIT](https://github.com/karolinaszy/manual_tests_challenge) - in progress
 
-<h3> Certifications </h3>
+<h4> Certifications </h4>
 
 🔲 ISTQB Foundation level - in progress
 
-<h3> Tools 🧰 </h3> 
+<h4> Tools 🧰 </h4> 
 
 | for testing purposes | for other purposes |    
 |----------------------|--------------------|
@@ -34,7 +34,7 @@ is listed below:
 
 
 <details>
-<summary> <h3> Tech skills ⚙️ </h3> </summary>
+<summary> <h4> Tech skills ⚙️ </h4> </summary>
 
 - SQL basics 🔰
 - Python basics 🐍   
@@ -47,7 +47,7 @@ is listed below:
 </details>
 
 <details>
-<summary> <h3> Soft skills 👐 </h3> </summary>
+<summary> <h4> Soft skills 👐 </h4> </summary>
 
 - motivated to learn 📖
 - curious 🤓
@@ -58,7 +58,7 @@ is listed below:
 </details>
 
 <details>
-<summary> <h3> Projects </h3> </summary>
+<summary> <h4> Projects </h4> </summary>
 
 <details>
 <summary> <h4> Autotests </h4> </summary>
@@ -85,14 +85,14 @@ is listed below:
 </details>
 
 <details> 
-<summary> <h3> Crowdtesting platforms I use 👨‍👨‍👧‍👧 </h3> </summary>
+<summary> <h4> Crowdtesting platforms I use 👨‍👨‍👧‍👧 </h4> </summary>
 
 - [MrBuggy](http://mrbuggy.pl/)
 - [uTest](https://www.utest.com/)
 </details>
 
 <details> 
-<summary> <h3> Webinars 🎥 </h3> </summary>
+<summary> <h4> Webinars 🎥 </h4> </summary>
 
 ✅ [Introduction to QA (GoIT)](https://qa.m.goit.global/pl/)   
 ✅ [Automatycznie 🤖 czy Manualnie 🔍? (DareIT)](https://www.facebook.com/events/1121747482561218)  
@@ -101,7 +101,7 @@ is listed below:
 ------
 
 <details> 
-<summary> <h3> Testing related books I read 📚 </h3> </summary>
+<summary> <h4> Testing related books I read 📚 </h4> </summary>
 
 - Zawód Tester - Radosław Smilgin
 - Testowanie i jakość oprogramowania - Adam Roman
@@ -110,7 +110,7 @@ is listed below:
 </details>
 
 <details> 
-<summary> <h3> Podcasts :ear: </h3> </summary>
+<summary> <h4> Podcasts :ear: </h4> </summary>
 
 - [Tu się testuje](https://open.spotify.com/show/75eyDizBIrd2QX0kSkkApJ)
 - [No Fluff Cast](https://open.spotify.com/show/7lYEvkUQjv6p282vPtAs6d)
@@ -119,7 +119,7 @@ is listed below:
 </details>
 
 <details> 
-<summary> <h3> IT websites I recommend 🕸️ </h3> </summary>
+<summary> <h4> IT websites I recommend 🕸️ </h4> </summary>
 
 - [testerzy.pl](https://testerzy.pl/)
 - [No fluff jobs blog](https://nofluffjobs.com/pl/log/)
@@ -130,7 +130,7 @@ is listed below:
 </details>
 
 <details> 
-<summary> <h3> IT fb groups I follow :accessibility:: </h3> </summary>
+<summary> <h4> IT fb groups I follow :accessibility:: </h4> </summary>
 
 - [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)   
 - [DareIT Community](https://www.facebook.com/groups/2029087700497738)   
@@ -139,7 +139,7 @@ is listed below:
 </details>
 
 <details> 
-<summary> <h3> My non-IT passions 🤙 </h3> </summary>
+<summary> <h4> My non-IT passions 🤙 </h4> </summary>
 
 - rock climbing 🌄
 - road and gravel bicycle 🚲
