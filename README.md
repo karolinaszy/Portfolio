@@ -59,7 +59,6 @@ is listed below:
 
 - autotests Selenium + Python for DareIT challenge [link to repo](https://github.com/karolinaszy/challenge_portfolio_karolina)   
 - autotests Robot Framework for DareIT challenge [link to repo](https://github.com/karolinaszy/test_robotframework)   
-
 <h4> Test cases </h4> 
 
 - Scout Panel manual testing [1](https://docs.google.com/spreadsheets/d/1eDfkKOzmwgp176t2s64f1L-6R99oGGE6i18GwfHpje8/edit#gid=0) and [2](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit#gid=471464752)
@@ -67,7 +66,9 @@ is listed below:
 
 <h4> Bug reports </h4>
 
-- bug reports for DareIT challenge [link to bug reports](https://drive.google.com/drive/folders/1KwI748Rjs5IqDTCie4krFsOSMx8glxAb)    
+- [Scouts Panel automated tests](https://docs.google.com/spreadsheets/d/1mclDrxefSIJAC0EKxuxXirdDfHzRAEqVYnNXRTJoioM/edit#gid=0)
+- [Scouts Panel manual tests](https://docs.google.com/spreadsheets/d/1hb-gv6v6JmhwuLAF0AuvuvU8oYAPN9v9Tqh1uSQaJ-c/edit#gid=1604189475)
+- [olx mobile app manual tests](https://docs.google.com/spreadsheets/d/1ItrAvKvbV1vl7Mgt1p2S9rNnKdQx-ZbWmBQMJJU4u7w/edit#gid=0)
 
 <h3> Here I learn how to test </h3>
 
