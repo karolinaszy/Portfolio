@@ -20,7 +20,7 @@ is listed below:
 
 🔲 ISTQB Foundation level - in progress
 
-<h3> Tools </h3> 
+<h3> Tools 🧰 </h3> 
 
 | for testing purposes | for other purposes |    
 |----------------------|--------------------|
@@ -34,7 +34,7 @@ is listed below:
 
 
 <details>
-<summary> <h3> Tech skills </h3> </summary>
+<summary> <h3> Tech skills ⚙️ </h3> </summary>
 
 - SQL basics 🔰
 - Python basics 🐍   
@@ -47,7 +47,7 @@ is listed below:
 </details>
 
 <details>
-<summary> <h3> Soft skills </h3> </summary>
+<summary> <h3> Soft skills 👐 </h3> </summary>
 
 - motivated to learn 📖
 - curious 🤓
@@ -57,7 +57,8 @@ is listed below:
 - detail-oriented 👈
 </details>
 
-<h3> Projects </h3>
+<details>
+<summary> <h3> Projects </h3> </summary>
 
 <details>
 <summary> <h4> Autotests </h4> </summary>
@@ -81,33 +82,44 @@ is listed below:
 - [olx mobile app manual tests](https://docs.google.com/spreadsheets/d/1ItrAvKvbV1vl7Mgt1p2S9rNnKdQx-ZbWmBQMJJU4u7w/edit#gid=0)
 </details> 
 
-<h3> Here I learn how to test </h3>
+</details>
+
+<details> 
+<summary> <h3> Crowdtesting platforms I use 👨‍👨‍👧‍👧 </h3> </summary>
 
 - [MrBuggy](http://mrbuggy.pl/)
 - [uTest](https://www.utest.com/)
+</details>
 
-<h3> Webinars </h3>
+<details> 
+<summary> <h3> Webinars 🎥 </h3> </summary>
 
 ✅ [Introduction to QA (GoIT)](https://qa.m.goit.global/pl/)   
 ✅ [Automatycznie 🤖 czy Manualnie 🔍? (DareIT)](https://www.facebook.com/events/1121747482561218)  
+</details>
 
 ------
 
-<h3> Testing related books I read </h3>
+<details> 
+<summary> <h3> Testing related books I read 📚 </h3> </summary>
 
 - Zawód Tester - Radosław Smilgin
 - Testowanie i jakość oprogramowania - Adam Roman
 - Automatyzacja testów - Arnon Axelrod
 - Cetryfikowany tester ISTQB - Adam Roman, Lucjan Stapp
+</details>
 
-<h3> Podcasts </h3>
+<details> 
+<summary> <h3> Podcasts :ear: </h3> </summary>
 
 - [Tu się testuje](https://open.spotify.com/show/75eyDizBIrd2QX0kSkkApJ)
 - [No Fluff Cast](https://open.spotify.com/show/7lYEvkUQjv6p282vPtAs6d)
 - [Testowanie oprogramowania](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd)
 - [Strong Women in IT](https://open.spotify.com/show/3UG6N8xsqVWJ6s5jA6GE99?si=753efa75fe1f4661)
+</details>
 
-<h3> IT websites I recommend </h3> 
+<details> 
+<summary> <h3> IT websites I recommend 🕸️ </h3> </summary>
 
 - [testerzy.pl](https://testerzy.pl/)
 - [No fluff jobs blog](https://nofluffjobs.com/pl/log/)
@@ -115,18 +127,22 @@ is listed below:
 - [Na podbój IT!](https://podboj.it/)
 - [Łukasz Zieliński blog](https://lukasz-zielinski.pl/)
 - [QA/ Test automation blog](https://amelia.qa/blog)
+</details>
 
-<h3> IT fb groups I follow </h3>
+<details> 
+<summary> <h3> IT fb groups I follow :accessibility:: </h3> </summary>
 
 - [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)   
 - [DareIT Community](https://www.facebook.com/groups/2029087700497738)   
 - [Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223/)
 - [Testuj, Dziewczyno!](https://www.facebook.com/groups/514014750879165/)
+</details>
 
-
-<h3> My non-IT passions 😊 </h3>
+<details> 
+<summary> <h3> My non-IT passions 🤙 </h3> </summary>
 
 - rock climbing 🌄
 - road and gravel bicycle 🚲
 - yoga 🧘
 - oriental culture and philosophy ☯️
+</details>
