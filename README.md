@@ -62,8 +62,8 @@ is listed below:
 <details>
 <summary> <h5> Autotests </h5> </summary>
 
-- autotests Selenium + Python for DareIT challenge [link to repo](https://github.com/karolinaszy/challenge_portfolio_karolina)   
-- autotests Robot Framework for DareIT challenge [link to repo](https://github.com/karolinaszy/test_robotframework)
+- autotests [Selenium + Python for DareIT challenge](https://github.com/karolinaszy/challenge_portfolio_karolina)   
+- autotests [Robot Framework for DareIT challenge](https://github.com/karolinaszy/test_robotframework)
 </details>
 
 <details>
