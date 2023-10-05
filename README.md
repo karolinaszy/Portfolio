@@ -69,16 +69,16 @@ is listed below:
 <details>
 <summary> <h5> Test cases </h5> </summary>
 
-- Scout Panel manual testing [1](https://docs.google.com/spreadsheets/d/1eDfkKOzmwgp176t2s64f1L-6R99oGGE6i18GwfHpje8/edit#gid=0) and [2](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit#gid=471464752)
-- [Scouts Panel automated testing](https://drive.google.com/drive/folders/1987MHeKnAwviBS8oxVPAMrAryYXPj8IF)
+- Scout Panel [manual testing 1](https://docs.google.com/spreadsheets/d/1eDfkKOzmwgp176t2s64f1L-6R99oGGE6i18GwfHpje8/edit#gid=0) and [2](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit#gid=471464752)
+- Scouts Panel [automated testing](https://drive.google.com/drive/folders/1987MHeKnAwviBS8oxVPAMrAryYXPj8IF)
 </details>
 
 <details>
 <summary> <h5> Bug reports </h5> </summary>
 
-- [Scouts Panel automated tests](https://docs.google.com/spreadsheets/d/1mclDrxefSIJAC0EKxuxXirdDfHzRAEqVYnNXRTJoioM/edit#gid=0)
-- [Scouts Panel manual tests](https://docs.google.com/spreadsheets/d/1hb-gv6v6JmhwuLAF0AuvuvU8oYAPN9v9Tqh1uSQaJ-c/edit#gid=1604189475)
-- [olx mobile app manual tests](https://docs.google.com/spreadsheets/d/1ItrAvKvbV1vl7Mgt1p2S9rNnKdQx-ZbWmBQMJJU4u7w/edit#gid=0)
+- Scouts Panel [automated tests](https://docs.google.com/spreadsheets/d/1mclDrxefSIJAC0EKxuxXirdDfHzRAEqVYnNXRTJoioM/edit#gid=0)
+- Scouts Panel [manual tests](https://docs.google.com/spreadsheets/d/1hb-gv6v6JmhwuLAF0AuvuvU8oYAPN9v9Tqh1uSQaJ-c/edit#gid=1604189475)
+- olx [mobile app manual tests](https://docs.google.com/spreadsheets/d/1ItrAvKvbV1vl7Mgt1p2S9rNnKdQx-ZbWmBQMJJU4u7w/edit#gid=0)
 </details> 
 
 </details>
