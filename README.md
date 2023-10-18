@@ -129,7 +129,7 @@ is listed below:
 </details>
 
 <details> 
-<summary> <h4> IT fb groups I follow :accessibility:: </h4> </summary>
+<summary> <h4> IT fb groups I follow :accessibility: </h4> </summary>
 
 - [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)   
 - [DareIT Community](https://www.facebook.com/groups/2029087700497738)   
